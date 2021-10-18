@@ -16,3 +16,9 @@
 可对用户进行查看，删除，以及查找的操作。
 
 对帖子进行查看，删除，查找，还可查看帖子详细内容，对评论进行查看和删除。
+
+其余部分代码：
+
+社区论坛系统用户前端代码：https://github.com/kwc1907/Forum-system
+
+社区论坛系统整体后端代码：https://github.com/kwc1907/Forum-System-backend
