@@ -1,9 +1,9 @@
 # Forum-System-manage     
 
-该部分为社区论坛系统管理员端前端代码，使用了Vue脚手架  vuex  axios  element-ui Vditor echarts 等技术
+该部分为社区论坛系统管理员端前端代码，使用了Vue脚手架 vuex axios element-ui Vditor echarts 等技术。
 
 
-系统功能设计
+系统功能设计：
 
 设有路由守卫，未登录不可操作。
 
